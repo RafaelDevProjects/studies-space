@@ -1,0 +1,13 @@
+
+#versão da venv ( `virtualenv --version` )
+#Cria a venv ( `virtualenv venv` )
+#Ativa a venv ( `venv/Scripts/Activate` )
+#Desativa a venv ( `deactiva`te` )
+
+#Mostra todas as dependencias ( `pip freeze` ) 
+#Cria o arquivo requirements.txt ( `pip freeze > requirements.txt` )
+
+#Help do Django ( `django-admin help` )
+# Cria projeto em Django ( `django-admin startproject setup .` )
+
+#Instalar dotenv para armazenar as variáveis de ambiente ( pip install python-dotenv )
