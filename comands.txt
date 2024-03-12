@@ -1,13 +1,26 @@
 
-#versão da venv ( `virtualenv --version` )
-#Cria a venv ( `virtualenv venv` )
-#Ativa a venv ( `venv/Scripts/Activate` )
-#Desativa a venv ( `deactiva`te` )
+# versão da venv ( `virtualenv --version` )
+# Cria a venv ( `virtualenv venv` )
+# Ativa a venv ( `venv/Scripts/Activate` )
+# Desativa a venv ( `deactivate` )
 
-#Mostra todas as dependencias ( `pip freeze` ) 
-#Cria o arquivo requirements.txt ( `pip freeze > requirements.txt` )
 
-#Help do Django ( `django-admin help` )
+# Mostra todas as dependencias ( `pip freeze` ) 
+# Cria o arquivo requirements.txt ( `pip freeze > requirements.txt` )
+
+# Help do Django ( `django-admin help` )
 # Cria projeto em Django ( `django-admin startproject setup .` )
+# Roda o server ( python manage.py runserver )
 
-#Instalar dotenv para armazenar as variáveis de ambiente ( pip install python-dotenv )
+# Instalar dotenv para armazenar as variáveis de ambiente ( pip install python-dotenv ) / https://www.toptal.com/developers/gitignore/ (para colocar comandos padroes no env)
+
+# Comitar
+git init
+git add .
+git commit -m "<Menagem de commit>"
+git remote add origin <link do repositorio>
+git push origin master
+
+# Iniciando um app
+
+
