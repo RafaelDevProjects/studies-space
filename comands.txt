@@ -10,7 +10,10 @@
 
 # Help do Django ( `django-admin help` )
 # Cria projeto em Django ( `django-admin startproject setup .` )
-# Roda o server ( python manage.py runserver )
+# Roda o server ( `python manage.py runserver ` )
+# Faz uma migration ( python manage.py makemigrations )
+
+# Baixa todos os requirements dentro do arquivo ( ´ pip install -r requirements.txt ` )
 
 # Instalar dotenv para armazenar as variáveis de ambiente ( pip install python-dotenv ) / https://www.toptal.com/developers/gitignore/ (para colocar comandos padroes no env)
 
